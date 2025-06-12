@@ -1,3 +1,5 @@
+CV:- https://drive.google.com/drive/folders/11exx_gOcOPrR5bi1aKyqKBPK_ed0Rbau?usp=sharing
+LinkedIn:-https://www.linkedin.com/in/mostafa-alashry-97623823b/
 Hi there! 👋
 
 I’m a passionate and motivated Back-End Developer specializing in .NET technologies, particularly ASP.NET Core and C#. I focus on building scalable, maintainable, and secure APIs and server-side applications using:
